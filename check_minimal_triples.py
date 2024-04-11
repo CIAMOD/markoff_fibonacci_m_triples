@@ -1,6 +1,6 @@
 """
 This program is used to check Lemma 4.2, in which we need to proof that m = 21 is the only
-m-value with more than one minimal Fibonacci triplet. Given the indexes of the Fibonacci
+m-value with more than one minimal Fibonacci triple. Given the indexes of the Fibonacci
 elements (a,b,c), this program checks all triples up to c=500.
 
 First, we generate a dictionary with the Fibonacci sequence, where the key is the index
@@ -12,7 +12,7 @@ the minimality condition c >= a + b + 1.
 
 Finally, we store in a dictionary all minimal Fibonacci triples assigned to their respective
 m-value. With this we can check if m = 21 is trully the only positive m-value that has more
-than one minimal Fibonacci triplet.
+than one minimal Fibonacci triple.
 """
 
 from itertools import combinations_with_replacement as combinations
