@@ -1,5 +1,5 @@
 """
-This program is used to check Lemma 4.2, in which we need to proof that m = 21 is the only
+This program is used to check Lemma 4.5, in which we need to proof that m = 21 is the only
 m-value with more than one minimal Fibonacci triple. Given the indexes of the Fibonacci
 elements (a,b,c), this program checks all triples up to c=500.
 
@@ -7,7 +7,7 @@ First, we generate a dictionary with the Fibonacci sequence, where the key is th
 of the sequence and the value is the corresponding number.
 
 Then, we generate all possible combinations of indexes to generate Fibonacci triples. 
-We preprocess each combination, as based on Lemma 2.4, we only need to analyse triples with
+We preprocess each combination, as based on Lemma 2.3, we only need to analyse triples with
 the minimality condition c >= a + b + 1.
 
 Finally, we store in a dictionary all minimal Fibonacci triples assigned to their respective
