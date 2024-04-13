@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains two files that are used in [REF TO PAPER WHEN PUBLISHED] to computationally check some lemmas.
+This repository contains two files that are used in _A classification of Markoff-Fibonacci m-triples_ (2024) to computationally check some lemmas.
 
 ### check_minimal_triples.py
 
