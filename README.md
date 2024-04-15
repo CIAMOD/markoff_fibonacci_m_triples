@@ -43,5 +43,5 @@ The first section contains all functions used to determine the upper and lower b
 
 ## Affiliation
 
-This project belongs to the CIAMOD research group.
+This research was supported by project CIAMOD (Applications of computational methods and artificial intelligence to the study of moduli spaces, project PP2023_9) funded by Convocatoria de Financiación de Proyectos de Investigación Propios 2023, Universidad Pontificia Comillas, and by grants PID2022-142024NB-I00 and PID2019-104735RB-C42 funded by MCIN/AEI/10.13039/501100011033.
 
